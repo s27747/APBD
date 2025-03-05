@@ -8,7 +8,7 @@ class Program
     {
         int[] numbers = { 1, 2, 3, 4, 5 };
         Console.WriteLine("Średnia: " + CalculateAverage(numbers));
-	Console.WriteLine("Maksymalna wartosc: " +FindMax(number));
+	Console.WriteLine("Maksymalna wartosc: " +FindMax(numbers));
     }
 
     static double CalculateAverage(int[] numbers)

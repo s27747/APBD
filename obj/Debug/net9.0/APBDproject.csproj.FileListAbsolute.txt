@@ -1,0 +1,15 @@
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/bin/Debug/net9.0/APBDproject
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/bin/Debug/net9.0/APBDproject.deps.json
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/bin/Debug/net9.0/APBDproject.runtimeconfig.json
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/bin/Debug/net9.0/APBDproject.dll
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/bin/Debug/net9.0/APBDproject.pdb
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.AssemblyInfoInputs.cache
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.AssemblyInfo.cs
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.csproj.CoreCompileInputs.cache
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.sourcelink.json
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.dll
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/refint/APBDproject.dll
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.pdb
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/APBDproject.genruntimeconfig.cache
+/Users/jakuberbetowski/RiderProjects/APBD/APBDproject/obj/Debug/net9.0/ref/APBDproject.dll

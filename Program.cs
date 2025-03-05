@@ -21,7 +21,7 @@ class Program
     {
         if (numbers == null || numbers.Length == 0)
             throw new ArgumentException("Tablica nie może być pusta.");
-        return numbers[0]; // Przykładowa wartość przed poprawieniem
+        return numbers[0]; 
     }
 }
 
